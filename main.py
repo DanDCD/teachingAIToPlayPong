@@ -62,8 +62,6 @@ def main():
         if keys[pygame.K_DOWN]:
             paddle_R_pos.y += 200 * dt
 
-
-
     pygame.quit()
 
 
